@@ -21,6 +21,9 @@ Things used in this project
 
 <!-- REPO structure -->
 ## Repo structure
+- `neuton_csvcapture_nicla/` -- CSV dataset capture program according to Neuton dataset requirements
+- `neuton_inclinationestimator_nicla/` -- An Inclination Estimator system with Neuton TinyML
+- `neuton_models_clib/` -- Neuton models C-library (Regression and Multiclass task types)
 
 <!-- CONTACT -->
 ## Contact
