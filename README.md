@@ -4,7 +4,7 @@
 ## About The Project
 An Inclination Estimator system based on an accelerometer with Arduino and Neuton TinyML
 
-Tutorial: 
+Tutorial: https://leonardocavagnis.medium.com/tinyml-slope-control-for-robots-with-arduino-pro-b2bca81e939e
 
 <!-- SETUP -->
 ## Setup
